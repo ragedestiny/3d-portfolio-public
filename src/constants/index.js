@@ -234,8 +234,8 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/ragedestiny/3d-portfolio",
-    live_link: "https://jackychiu.netlify.app/",
+    source_code_link: "https://github.com/ragedestiny/3d-portfolio-public",
+    live_link: "https://3d-portfolio-public.netlify.app/",
   },
 ];
 
