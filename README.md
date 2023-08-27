@@ -2,7 +2,7 @@
 
 > Every developer needs a portfolio to display their work. This portfolio is inspired by JavaScript Mastery. It uses the power of 3D renderings to create a beautiful, interactive 3D portfolio that every developer can be proud of.
 
-> Live website [_here_](https://3dportfoliopublic.netlify.app/).
+> Live website [_here_](https://3d-portfolio-public.netlify.app/).
 >
 > Inspired by JavaScript Mastery [_here_](https://www.youtube.com/watch?v=0fYi8SGA20k).
 
